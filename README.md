@@ -1,4 +1,4 @@
-# This project requires pnpm to run with Expo
+# This project requires pnpm in order to run on Expo
 
   *Nov 12, 2026 · @Jon*
 
